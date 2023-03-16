@@ -34,7 +34,7 @@
 <img src="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" height="30px">
 </div>
   
-- 💻 I am currently working as a lutter developer.
+- 💻 I am currently working as a Flutter developer.
 - 🌱 I am Studying Computer Science from Sindh Madressatul Islam University.
 - 🎯 A major goal is to be the best developer.
   
