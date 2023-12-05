@@ -35,7 +35,7 @@
 </div>
   
 - 💻 I am currently working as a Flutter developer.
-- 🌱 I am Studying Computer Science in Sindh Madressatul Islam University.
+- 🌱 I am Studying Computer Science from Sindh Madressatul Islam University.
 - 🎯 A major goal is to be the best developer.
   
 <!-- Tools and Technology Section -->
