@@ -105,7 +105,7 @@ I'm a **Senior Software Engineer from Karachi, Pakistan** with around **4 years*
 | **PrintGraphi** | Custom-printing store for small businesses | Angular · Firebase Hosting | [Website](https://olxwebsite-544dd.web.app/) |
 
 <p align="center">
-  <a href="https://noor-portfolio-website.web.app/#portfolio"><b>➡️ See all projects, screenshots and details on my portfolio</b></a>
+  <a href="https://noor-portfolio-website.web.app"><b>➡️ See all projects, screenshots and details on my portfolio</b></a>
 </p>
 
 ---
@@ -119,10 +119,6 @@ I'm a **Senior Software Engineer from Karachi, Pakistan** with around **4 years*
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorfatima15&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=c9d1d9" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=noorfatima15&hide_border=true&bg_color=0d1117&color=c9d1d9&line=6EE7B7&point=ffffff&area=true&area_color=6EE7B7" alt="Contribution graph"/>
 </p>
 
 ## 🐍 My contributions
