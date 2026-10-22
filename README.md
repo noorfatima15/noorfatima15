@@ -114,7 +114,11 @@ I'm a **Senior Software Engineer from Karachi, Pakistan** with around **4 years*
 ## 🐍 My contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/noorfatima15/noorfatima15/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noorfatima15/noorfatima15/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noorfatima15/noorfatima15/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/noorfatima15/noorfatima15/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+  </picture>
 </p>
 
 <!-- Footer -->
