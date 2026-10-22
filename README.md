@@ -19,7 +19,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noorfatima15&label=Profile%20views&color=6EE7B7&style=flat-square" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/noorfatima15?label=Followers&style=flat-square&color=6EE7B7&labelColor=0d1117" alt="Followers"/>
 </p>
 
