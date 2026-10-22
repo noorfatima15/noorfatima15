@@ -90,21 +90,12 @@ I'm a **Senior Software Engineer from Karachi, Pakistan** with around **4 years*
 
 ---
 
-## 🚀 Featured work
-
-| Project | What it is | Stack | Links |
-|---|---|---|---|
-| **Routica** | Companion app for the Routica Explorer RV router: router config, VPN, trip planning, live location, alarms | Flutter · Stacked · WebSocket · Swift · Kotlin | [Play](https://play.google.com/store/apps/details?id=com.ositech.routica) · [App Store](https://apps.apple.com/us/app/routica/id1600048036) |
-| **Kidfluence** | UK parent-influencer app connecting families with brands | Flutter · GetX · Firebase · Stripe | [Play](https://play.google.com/store/apps/details?id=com.appease.kidfluence_app) · [App Store](https://apps.apple.com/gb/app/kidfluence/id6733238808) |
-| **Sevadaari** | Community ride app matching members with volunteer drivers | Flutter · Google Maps · Firebase | [Play](https://play.google.com/store/apps/details?id=com.gesolucions.sevadhari) · [App Store](https://apps.apple.com/us/app/sevadaari/id1591375608) |
-| **StreetSpot** | Food-truck discovery & ordering with customer, owner and admin roles | Flutter · GetX · Google Maps · React | [Website](https://streetspot.live/) |
-| **Opening Hearts** | Marketplace for products, local services and donations to non-profits | React · REST | [Website](https://www.openingheartsdigitalgateway.com/) |
-| **ccBudget** | Bill & expense tracker for mobile, web and desktop | React · Fintech | [Website](https://ccbudget.com/) |
-| **Language Leaders** | English-learning platform with reading & listening modes | React · Vite · Railway | [Website](https://language-leader-frontend-production.up.railway.app/) |
-| **PrintGraphi** | Custom-printing store for small businesses | Angular · Firebase Hosting | [Website](https://olxwebsite-544dd.web.app/) |
+## 🚀 My work
 
 <p align="center">
-  <a href="https://noor-portfolio-website.web.app"><b>➡️ See all projects, screenshots and details on my portfolio</b></a>
+  Curious what I've built? Projects, screenshots and case details live on my portfolio.
+  <br/><br/>
+  <a href="https://noor-portfolio-website.web.app"><img src="https://img.shields.io/badge/View%20my%20portfolio-6EE7B7?style=for-the-badge&logo=googlechrome&logoColor=0d1117" alt="View my portfolio"/></a>
 </p>
 
 ---
